@@ -1,6 +1,12 @@
 Hello hemateja
+
            hi
 
 
 
 day2:git opertion
+
+           
+
+day1: basic git functions
+
