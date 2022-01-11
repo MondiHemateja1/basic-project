@@ -1,2 +1,4 @@
 Hello hemateja
-           hi
+           
+
+day: basic git functions
